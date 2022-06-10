@@ -9,8 +9,13 @@ random.seed(test_seed)
 names_string = input("Give me everybody's names, separated by a comma: ")
 names = names_string.split(", ")
 
+## Could be done in 2 ways:
+# 1. Using lists
 Count = len(names)
-
 random_position = random.randint(0, Count-1)
 
 print(f"{names[random_position]} is going to buy the meal today!")
+
+# 2. Using random.choice() function
+
+
