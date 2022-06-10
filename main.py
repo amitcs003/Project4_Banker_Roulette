@@ -11,7 +11,7 @@ names = names_string.split(", ")
 
 ## Could be done in 2 ways:
 
-# Approach 1. Using lists
+# Approach 1. Using lists in python
 Count = len(names)
 random_position = random.randint(0, Count-1)
 
