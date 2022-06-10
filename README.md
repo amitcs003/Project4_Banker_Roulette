@@ -1,3 +1,2 @@
 # Project4_Banker_Roulette
-
-write a program that will select a random name from a list of names. The person selected will have to pay for everybody's food bill.
+The code asks about a list of names. The program that will select a random name from the list and the person selected will have to pay for everybody's food bill.
